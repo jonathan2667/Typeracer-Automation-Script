@@ -1,0 +1,825 @@
+1618770684394	geckodriver	INFO	Listening on 127.0.0.1:52962
+1618770687384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileGunYIe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618770690041	Marionette	INFO	Listening on port 52972
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618770690527	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618770690538	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: uncaught exception: undefined
+1618770694616	Marionette	INFO	Stopped listening on port 52972
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618770708678	geckodriver	INFO	Listening on 127.0.0.1:53090
+1618770711630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileqJ4TbG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618770713644	Marionette	INFO	Listening on port 53099
+1618770713764	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2656, IPC I/O Parent] WARNING1618770713783	Marionette	ERROR	[18] No reply from Marionette:Register
+: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618770716025	Marionette	INFO	Stopped listening on port 53099
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618771163099	geckodriver	INFO	Listening on 127.0.0.1:53558
+1618771166056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofilevkGnT2"
+1618771192128	geckodriver	INFO	Listening on 127.0.0.1:53624
+1618771195101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileY6W2VN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618771197527	Marionette	INFO	Listening on port 53634
+1618771197743	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618771243582	Marionette	INFO	Stopped listening on port 53634
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618771245769	geckodriver	INFO	Listening on 127.0.0.1:53764
+1618771248726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileFKllFO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618771250885	Marionette	INFO	Listening on port 53774
+1618771251346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618771293225	Marionette	INFO	Stopped listening on port 53774
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618771295120	geckodriver	INFO	Listening on 127.0.0.1:53882
+1618771298072	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileaBocj2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618771300419	Marionette	INFO	Listening on port 53893
+1618771300694	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618771346159	Marionette	INFO	Stopped listening on port 53891618771346582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileujdr48"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618771349074	Marionette	INFO	Listening on port 54019
+1618771349236	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: A network error occurred.
+console.error: "stylesheets actor: fetch failed for https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css, using system principal instead."
+console.error: "stylesheets actor: fetch failed for https://www.pbinfo.ro/css/stil.css?ver=7, using system principal instead."
+console.error: "Error writing request: getGrids"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+Handler function threw an exception: TypeError: this._eventCollector is null
+Stack: destroy@resource://devtools/server/actors/inspector/node.js:152:5
+destroy@resource://devtools/shared/protocol/Pool.js:196:17
+destroy@resource://devtools/shared/protocol/Actor.js:76:11
+destroy@rconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618771673221	Marionette	INFO	Listening on port 54390
+1618771673373	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618771677160	Marionette	INFO	Stopped listening on port 54390
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+/actors/targets/browsing-context.js:613:10
+destroy@resource://devtools/server/actors/targets/browsing-context.js:592:10
+onClosed/<@resource://devtools/server/devtools-server-connection.js:493:34
+onClosed@resource://devtools/server/devtools-server-connection.js:493:19
+close@resource://devtools/shared/transport/child-transport.js:63:18
+close@resource://devtools/server/devtools-server-connection.js:94:23
+onDisconnect<@resource://devtools/server/startup/frame.js:112:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 152, column: 5
+console.error: (new TypeError("this._eventCollector is null", "resource://devtools/server/actors/inspector/node.js", 152))
+1618771671906	Marionette	INFO	Stopped listening on port 54019
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618771705432	geckodriver	INFO	Listening on 127.0.0.1:54503
+1618771708392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofilenlhetV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618771710590	Marionette	INFO	Listening on port 54513
+1618771711015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618771718556	Marionette	INFO	Stopped listening on port 54513
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618771753206	geckodriver	INFO	Listening on 127.0.0.1:54638
+1618771756199	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileEgyOZa"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618771758415	Marionette	INFO	Listening on port 54647
+1618771758836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618771765768	Marionette	INFO	Stopped listening on port 54647
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618771788510	geckodriver	INFO	Listening on 127.0.0.1:54764
+1618771791492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofilejqCrBR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618771793769	Marionette	INFO	Listening on port 54774
+1618771794115	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618771799818	Marionette	INFO	Stopped listening on port 54774
+[Child 2248, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1618771878588	geckodriver	INFO	Listening on 127.0.0.1:54915
+1618771881565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofilevE9JXf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618771883885	Marionette	INFO	Listening on port 54925
+1618771884215	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618771890076	Marionette	INFO	Stopped listening on port 54925
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618772048751	geckodriver	INFO	Listening on 127.0.0.1:55094
+1618772051741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofile2hsnpc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618772054004	Marionette	INFO	Listening on port 55104
+1618772054381	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618772061604	Marionette	INFO	Stopped listening on port 55104
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618772078974	geckodriver	INFO	Listening on 127.0.0.1:55178
+1618772081960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileZXQskA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618772084113	Marionette	INFO	Listening on port 55188
+1618772084598	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618772091635	Marionette	INFO	Stopped listening on port 55188
+[Child 8008, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618772102121	geckodriver	INFO	Listening on 127.0.0.1:55260
+1618772105085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileJxUdxy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618772107403	Marionette	INFO	Listening on port 55271
+1618772107712	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618772117476	Marionette	INFO	Stopped listening on port 55271
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618772129173	geckodriver	INFO	Listening on 127.0.0.1:55349
+1618772132154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofilevNQPDO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618772134339	Marionette	INFO	Listening on port 55359
+1618772134776	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618772142425	Marionette	INFO	Stopped listening on port 55359
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618772196428	geckodriver	INFO	Listening on 127.0.0.1:55472
+1618772199399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofilemZmSuc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618772201643	Marionette	INFO	Listening on port 55481
+1618772202020	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+[Child 9776, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 9776, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1618772292327	Marionette	INFO	Stopped listening on port 55481
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618772330648	geckodriver	INFO	Listening on 127.0.0.1:55640
+1618772333591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileNDRiiT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618772336111	Marionette	INFO	Listening on port 55649
+1618772336227	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618772346907	Marionette	INFO	Stopped listening on port 55649
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618772351918	geckodriver	INFO	Listening on 127.0.0.1:55716
+1618772354892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofilevErDDf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618772357166	Marionette	INFO	Listening on port 55724
+1618772357516	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618772368263	Marionette	INFO	Stopped listening on port 55724
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618772373826	geckodriver	INFO	Listening on 127.0.0.1:55791
+1618772376804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofiled9SLgC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618772379173	Marionette	INFO	Listening on port 55800
+1618772379426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618772402279	Marionette	INFO	Stopped listening on port 55800
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618772644244	geckodriver	INFO	Listening on 127.0.0.1:55930
+1618772647209	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileG6zTNQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618772649392	Marionette	INFO	Listening on port 55939
+1618772649834	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618772921449	Marionette	INFO	Stopped listening on port 55939
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofile63nqR8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618772875686	Marionette	INFO	Listening on port 56100
+1618772875818	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618772919590	Marionette	INFO	Stopped listening on port 56100
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618772944935	geckodriver	INFO	Listening on 127.0.0.1:56177
+1618772947880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofilevJleNx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618772950214	Marionette	INFO	Listening on port 56186
+1618772950508	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618772975972	Marionette	INFO	Stopped listening on port 56186
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618772980088	geckodriver	INFO	Listening on 127.0.0.1:56257
+1618772983088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofile4JxJta"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618772985459	Marionette	INFO	Listening on port 56266
+1618772985710	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618772998118	Marionette	INFO	Stopped listening on port 56266
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618773019694	geckodriver	INFO	Listening on 127.0.0.1:56339
+1618773022666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofilevBS92u"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618773024928	Marionette	INFO	Listening on port 56347
+1618773025291	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618773040381	Marionette	INFO	Stopped listening on port 56347
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618773057076	geckodriver	INFO	Listening on 127.0.0.1:56416
+1618773060038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofilevLsShM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618773062240	Marionette	INFO	Listening on port 56425
+1618773062660	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618773102682	Marionette	INFO	Stopped listening on port 56425
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618773103920	geckodriver	INFO	Listening on 127.0.0.1:56492
+1618773106908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileGa1MXS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618773109156	Marionette	INFO	Listening on port 56500
+1618773109536	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618773135479	Marionette	INFO	Stopped listening on port 56500
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618773163006	geckodriver	INFO	Listening on 127.0.0.1:56572
+1618773165995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofile0Snd3c"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618773168205	Marionette	INFO	Listening on port 56580
+1618773168616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618773195154	Marionette	INFO	Stopped listening on port 56580
+1618773200737	geckodriver	INFO	Listening on 127.0.0.1:56648
+1618773203726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofile1Geed7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618773205786	Marionette	INFO	Listening on port 56657
+1618773205868	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618773259362	Marionette	INFO	Stopped listening on port 56657
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofilescRZiw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618773261257	Marionette	INFO	Listening on port 56733
+1618773261475	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618773277669	Marionette	INFO	Stopped listening on port 56733
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618773294873	geckodriver	INFO	Listening on 127.0.0.1:56799
+1618773297863	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileJiVQ7H"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618773300011	Marionette	INFO	Listening on port 56807
+1618773300521	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618773316539	Marionette	INFO	Stopped listening on port 56807
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618773322114	geckodriver	INFO	Listening on 127.0.0.1:56872
+1618773325098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileTCaRPQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618773327183	Marionette	INFO	Listening on port 56881
+1618773327236	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618773343052	Marionette	INFO	Stopped listening on port 56881
+1618773390287	geckodriver	INFO	Listening on 127.0.0.1:56953
+1618773393257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileU8uwks"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618773395450	Marionette	INFO	Listening on port 56961
+1618773395901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: A network error occurred.
+1618773642289	Marionette	INFO	Stopped listening on port 56961
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofilecA681o"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618773617668	Marionette	INFO	Listening on port 57117
+1618773617798	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618773638201	Marionette	INFO	Stopped listening on port 57117
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618773659085	geckodriver	INFO	Listening on 127.0.0.1:57197
+1618773662058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileuz7Nau"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618773664426	Marionette	INFO	Listening on port 57206
+1618773664688	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618773697844	Marionette	INFO	Stopped listening on port 57206
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618773739949	geckodriver	INFO	Listening on 127.0.0.1:57283
+1618773742939	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileeLfkta"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618773745075	Marionette	INFO	Listening on port 57291
+1618773745582	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618773803672	Marionette	INFO	Stopped listening on port 57291
+1618773805459	geckodriver	INFO	Listening on 127.0.0.1:57365
+1618773808425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileYu3Ivw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618773810684	Marionette	INFO	Listening on port 57373
+1618773811045	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618773827265	Marionette	INFO	Stopped listening on port 57373
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618824592611	geckodriver	INFO	Listening on 127.0.0.1:58638
+1618824595642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileM7dIdO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618824598389	Marionette	INFO	Listening on port 58646
+1618824598784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://play.typeracer.com"
+1618824675601	Marionette	INFO	Stopped listening on port 58646
+1618824677046	geckodriver	INFO	Listening on 127.0.0.1:58729
+1618824680034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofilekKDuZJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618824682366	Marionette	INFO	Listening on port 58738
+1618824682658	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618824714062	Marionette	INFO	Stopped listening on port 58738
+1618824716110	geckodriver	INFO	Listening on 127.0.0.1:58807
+1618824719111	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileAzXZW7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618824721241	Marionette	INFO	Listening on port 58815
+1618824721731	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618824739718	Marionette	INFO	Stopped listening on port 58815
+1618824743790	geckodriver	INFO	Listening on 127.0.0.1:58881
+1618824746786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofile6vt4xM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618824748858	Marionette	INFO	Listening on port 58890
+1618824748924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618824765849	Marionette	INFO	Stopped listening on port 58890
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618824817836	geckodriver	INFO	Listening on 127.0.0.1:58966
+1618824820829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileY61vD4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618824823033	Marionette	INFO	Listening on port 58975
+1618824823446	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618824868932	Marionette	INFO	Stopped listening on port 58975
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618824925103	geckodriver	INFO	Listening on 127.0.0.1:59072
+1618824928096	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileLcoKYx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618824930204	Marionette	INFO	Listening on port 59081
+1618824930235	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1618825015868	Marionette	INFO	Stopped listening on port 59081
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618825370019	geckodriver	INFO	Listening on 127.0.0.1:59813
+1618825372882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileNKZDBX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618825379382	Marionette	INFO	Listening on port 59822
+1618825379920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+[Parent 13888, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 13888, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1618825398619	Marionette	INFO	Stopped listening on port 59822
+1618825512963	geckodriver	INFO	Listening on 127.0.0.1:59909
+1618825515909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileOov6j6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618825519847	Marionette	INFO	Listening on port 59918
+1618825520055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618825627470	Marionette	INFO	Stopped listening on port 59918
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618825681836	geckodriver	INFO	Listening on 127.0.0.1:60029
+1618825684785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileuEeiLi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618825687454	Marionette	INFO	Listening on port 60038
+1618825687927	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618825733252	Marionette	INFO	Stopped listening on port 60038
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618825838109	geckodriver	INFO	Listening on 127.0.0.1:60129
+1618825841032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileZDJOle"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618825843435	Marionette	INFO	Listening on port 60138
+1618825843656	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+[Child 16940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 16940, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1618825883915	Marionette	INFO	Stopped listening on port 60138
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618825987437	geckodriver	INFO	Listening on 127.0.0.1:60229
+1618825990420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileHyer1I"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618825992676	Marionette	INFO	Listening on port 60238
+1618825993050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618826075640	Marionette	INFO	Stopped listening on port 60238
+8826021937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofile1qla1l"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618826024275	Marionette	INFO	Listening on port 60315
+1618826024565	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618826074750	Marionette	INFO	Stopped listening on port 60315
+1618826078286	geckodriver	INFO	Listening on 127.0.0.1:60392
+1618826081251	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileApktbB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618826083719	Marionette	INFO	Listening on port 60400
+1618826083875	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618826150075	Marionette	INFO	Stopped listening on port 60400
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618826159185	geckodriver	INFO	Listening on 127.0.0.1:60477
+1618826162158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileKceJgg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618826164336	Marionette	INFO	Listening on port 60485
+1618826164778	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618826179108	Marionette	INFO	Stopped listening on port 60485
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618826182734	geckodriver	INFO	Listening on 127.0.0.1:60551
+1618826185715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofiles4unFk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618826188184	Marionette	INFO	Listening on port 60559
+1618826188339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618826385588	Marionette	INFO	Stopped listening on port 60559
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618826651937	geckodriver	INFO	Listening on 127.0.0.1:60741
+1618826654907	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofile6c3sbi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618826657057	Marionette	INFO	Listening on port 60750
+1618826657550	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+JavaScript error: , line 0: NetworkError: A network error occurred.
+1618826740179	Marionette	INFO	Stopped listening on port 60750
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618826742421	geckodriver	INFO	Listening on 127.0.0.1:64060
+1618826745404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofilePRti3Y"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618826747669	Marionette	INFO	Listening on port 64069
+1618826748027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618826873522	Marionette	INFO	Stopped listening on port 64069
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618826877573	geckodriver	INFO	Listening on 127.0.0.1:64164
+1618826880562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileyg6Kn0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618826882818	Marionette	INFO	Listening on port 64172
+1618826883199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618826900804	Marionette	INFO	Stopped listening on port 64172
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618826980478	geckodriver	INFO	Listening on 127.0.0.1:64280
+1618826983428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileFzWNAP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618826985874	Marionette	INFO	Listening on port 64288
+1618826986054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+[Child 14148, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 14148, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1618827092254	Marionette	INFO	Stopped listening on port 64288
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618827108994	geckodriver	INFO	Listening on 127.0.0.1:64378
+1618827111968	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofile4pQ6Jy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618827114411	Marionette	INFO	Listening on port 64387
+1618827114588	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618827170466	Marionette	INFO	Stopped listening on port 64387
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileU8aQfM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618827171687	Marionette	INFO	Listening on port 64469
+1618827171964	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618827196766	Marionette	INFO	Stopped listening on port 64469
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618827228303	geckodriver	INFO	Listening on 127.0.0.1:64540
+1618827231291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileNCKegc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618827233449	Marionette	INFO	Listening on port 64549
+1618827233922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618827263012	Marionette	INFO	Stopped listening on port 64549
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618827318435	geckodriver	INFO	Listening on 127.0.0.1:64628
+1618827321413	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofilebq1OC5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618827323550	Marionette	INFO	Listening on port 64637
+1618827324046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+[Child 15652, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Child 15652, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1618827367777	Marionette	INFO	Stopped listening on port 64637
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618827380610	geckodriver	INFO	Listening on 127.0.0.1:64710
+1618827383608	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileGwWrbf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618827385712	Marionette	INFO	Listening on port 64718
+1618827385753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+[Child 22480, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+1618827417983	Marionette	INFO	Stopped listening on port 64718
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618827435033	geckodriver	INFO	Listening on 127.0.0.1:64789
+1618827438000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofile320a7q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618827440374	Marionette	INFO	Listening on port 64797
+1618827440634	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618827509995	Marionette	INFO	Stopped listening on port 64797
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618827512588	geckodriver	INFO	Listening on 127.0.0.1:64876
+1618827515582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofilefH2lMw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618827517730	Marionette	INFO	Listening on port 64884
+1618827518204	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618827586570	Marionette	INFO	Stopped listening on port 64884
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618827588947	geckodriver	INFO	Listening on 127.0.0.1:64959
+1618827591926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofilevwfukP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618827594173	Marionette	INFO	Listening on port 64968
+1618827594564	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618827632645	geckodriver	INFO	Listening on 127.0.0.1:65038
+1618827635632	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\jmogo\\AppData\\Local\\Temp\\rust_mozprofileiNIMy2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618827637843	Marionette	INFO	Listening on port 65046
+1618827638255	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://play.typeracer.com/, line 89: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 81: unreachable code after return statement
+JavaScript warning: https://play.typeracer.com/ line 9 > injectedScript, line 89: unreachable code after return statement
+1618827902263	Marionette	INFO	Stopped listening on port 65046
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
